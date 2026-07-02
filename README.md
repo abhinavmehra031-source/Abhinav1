@@ -58,6 +58,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🎯 Object Detection using YOLO](https://github.com/abhin031/object-detection-using-yolo) | Full-stack web app for real-time object detection via webcam, image & video upload. Features live stream, dashboard, history & CSV export | `YOLOv8` `Django` `OpenCV` `Bootstrap` |
+| [👁️ Eye Disease Detection](https://github.com/abhin031/eye-disease-detection) | AI-powered web app to detect eye diseases (Cataract, Glaucoma, Diabetic Retinopathy) from retinal images using EfficientNet-B0 | `PyTorch` `Django` `OpenCV` `Bootstrap` |
 | [📄 AI Resume](https://github.com/abhin031/AI_RESUME) | AI-powered resume builder/analyzer using Python | `Python` `AI/ML` |
 
 </div>

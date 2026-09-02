@@ -52,7 +52,7 @@ Full-stack Django computer-vision application supporting image/video uploads, re
 
 **Tech:** Python · Django · YOLOv8 · OpenCV · Bootstrap · Chart.js
 
-Repository: https://github.com/abhinavmehra031-source/Object-Detection-
+[🌐 Live Demo](https://object-detection-using-yolo-9xhw.onrender.com) · [📂 Repository](https://github.com/abhinavmehra031-source/Object-Detection-)
 
 ### 👁️ Eye Disease Detection
 
@@ -60,7 +60,7 @@ AI-powered retinal-image classification application using EfficientNet-B0 and Py
 
 **Tech:** PyTorch · EfficientNet-B0 · Django · OpenCV · Pillow
 
-Repository: https://github.com/abhinavmehra031-source/Eye-disease-detection
+[📂 Repository](https://github.com/abhinavmehra031-source/Eye-disease-detection)
 
 ### 📄 AI Resume Analyzer
 
@@ -68,7 +68,15 @@ Resume analysis application for extracting and processing information from PDF a
 
 **Tech:** Python · Django · AI/ML · PyPDF2 · python-docx
 
-Repository: https://github.com/abhinavmehra031-source/Ai-Resume-Analyzer
+[🌐 Live Demo](https://ai-resume-1-lb0y.onrender.com) · [📂 Repository](https://github.com/abhinavmehra031-source/Ai-Resume-Analyzer)
+
+### 🏢 Accredian Enterprise Landing Page
+
+Responsive Next.js enterprise landing page with interactive sections, animations, enquiry form, and API route.
+
+**Tech:** Next.js · TypeScript · Tailwind CSS · Framer Motion
+
+[🌐 Live Demo](https://assignment-delta-rust-39.vercel.app/) · [📂 Repository](https://github.com/abhinavmehra031-source/assignment)
 
 ### 🤟 Sign Language Converter
 

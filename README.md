@@ -1,288 +1,113 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00d4ff&height=220&section=header&text=Abhinav%20Mehra&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20Computer%20Vision%20%7C%20Python%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=17" width="100%"/>
-
-<a href="https://github.com/abhin031">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+%26+Computer+Vision+Developer;Python+%7C+Django+%7C+OpenCV+%7C+YOLOv8;Building+Real-World+AI+Applications;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" />
-</a>
-
-<br/>
-
-<a href="https://github.com/abhin031">
-<img src="https://img.shields.io/badge/GitHub-abhin031-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-Hi! I'm **Abhinav Mehra**, a **Computer Science & Engineering graduate** passionate about building practical applications using **Artificial Intelligence, Computer Vision, Machine Learning, and Python**.
-
-I enjoy turning AI/ML concepts into real-world web applications using technologies such as **Django, OpenCV, YOLO, PyTorch, and REST APIs**.
-
-* 🔭 Currently building **AI-powered web applications**
-* 🤖 Interested in **Artificial Intelligence & Computer Vision**
-* 🐍 Strong interest in **Python backend development**
-* 🎯 Experienced with **YOLOv8, OpenCV, PyTorch & Django**
-* 🌐 Building full-stack applications with **Django + HTML/CSS/Bootstrap**
-* 📊 Interested in **Machine Learning & Deep Learning**
-* 🚀 Constantly learning and building new projects
-* 💼 **Open to opportunities** in AI/ML, Python, Computer Vision & Backend Development
-
----
-
-# 🛠️ Technical Skills
+# Abhinav Mehra — AI / Computer Vision / Python Developer
 
 <div align="center">
 
-### 💻 Programming Languages
+**AI • Computer Vision • Python • Backend Development**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+Building practical AI-powered applications and production-style web solutions with Python.
 
-### 🚀 Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=django,flask,opencv,pytorch,bootstrap" />
-
-<br/>
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer%20Vision-00FFFF?style=for-the-badge)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Computer%20Vision-4285F4?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
-
-### 🔧 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,docker,linux" />
+[GitHub](https://github.com/abhinavmehra031-source) · [LinkedIn](https://www.linkedin.com/in/abhinav-mehra-203046362/)
 
 </div>
 
----
+## 👨‍💻 About Me
 
-# 🧠 AI / ML Expertise
+I'm a Computer Science & Engineering graduate focused on **Python, Artificial Intelligence, Machine Learning, Computer Vision, and backend development**.
 
-```text
-Artificial Intelligence
-        │
-        ├── Machine Learning
-        │      ├── Classification
-        │      ├── Regression
-        │      └── Model Evaluation
-        │
-        ├── Deep Learning
-        │      ├── CNN
-        │      ├── LSTM
-        │      ├── Transformers
-        │      └── GANs
-        │
-        └── Computer Vision
-               ├── OpenCV
-               ├── YOLOv8
-               ├── MediaPipe
-               ├── Image Classification
-               └── Object Detection
-```
+I enjoy converting ML and software concepts into useful applications using Django, OpenCV, YOLO, PyTorch, REST APIs, and databases.
 
----
+- 🐍 Python backend development
+- 🤖 AI / Machine Learning / Deep Learning
+- 👁️ Computer Vision and image processing
+- 🌐 Django, Flask, FastAPI and REST APIs
+- 🗄️ MySQL, MongoDB, SQLite and PostgreSQL
+- 🐳 Git, GitHub, GitLab, Docker and Linux
+- 💼 Open to AI/ML, Python, Computer Vision and Backend opportunities
 
-# 💼 Experience
+## 🛠️ Technical Skills
 
-### 🤖 AI/ML Intern — CS Infotech
+| Category | Technologies |
+|---|---|
+| Languages | Python, Java, JavaScript, HTML, CSS |
+| Backend | Django, Flask, FastAPI, REST APIs |
+| AI / ML | Scikit-learn, PyTorch, CNN, LSTM, Transformers, GANs |
+| Computer Vision | OpenCV, YOLOv8, MediaPipe, Image Classification, Object Detection |
+| Data | Pandas, NumPy, EDA, Feature Engineering |
+| Databases | MySQL, MongoDB, SQLite, PostgreSQL |
+| Tools | Git, GitHub, GitLab, VS Code, Docker, Linux |
+
+## 💼 Experience
+
+### AI/ML Intern — CS Infotech
 
 **January 2026 – June 2026**
 
-Worked on practical AI/ML and software development projects while gaining hands-on experience with:
+Worked on practical AI/ML and software-development tasks involving Python, machine learning, data processing, Django, REST APIs, MySQL, MongoDB, and Generative AI.
 
-* 🐍 Python development
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Generative AI
-* 🌐 Django web development
-* 🔌 REST APIs
-* 🗄️ MySQL & MongoDB
-* 📊 Data processing and analysis
-* 🧩 Building AI-powered applications
+## 🚀 Featured Projects
 
----
+### 🎯 Object Detection using YOLOv8
 
-# 🚀 Featured Projects
+Full-stack Django computer-vision application supporting image/video uploads, real-time webcam detection, detection history, confidence scores, CSV export, authentication, and annotated results.
 
-## 🎯 Object Detection using YOLOv8
+**Tech:** Python · Django · YOLOv8 · OpenCV · Bootstrap · Chart.js
 
-**Full-stack Computer Vision Application**
+Repository: https://github.com/abhinavmehra031-source/Object-Detection-
 
-A Django-based object detection platform capable of processing **webcam streams, images, and videos** using YOLOv8.
+### 👁️ Eye Disease Detection
 
-### Features
+AI-powered retinal-image classification application using EfficientNet-B0 and PyTorch. Supports disease prediction, confidence/probability information, history, CSV export, and authentication.
 
-* 🎥 Real-time webcam detection
-* 🖼️ Image detection
-* 🎬 Video detection
-* 📡 Live detection stream
-* 📊 Detection dashboard
-* 🕘 Detection history
-* 📁 CSV export
-* 🌐 Django web interface
+**Tech:** PyTorch · EfficientNet-B0 · Django · OpenCV · Pillow
 
-**Tech:** `Python` `YOLOv8` `Django` `OpenCV` `Bootstrap`
+Repository: https://github.com/abhinavmehra031-source/Eye-disease-detection
 
-🔗 **Repository:**
-https://github.com/abhin031/object-detection-using-yolo
+### 📄 AI Resume Analyzer
 
----
+Resume analysis application for extracting and processing information from PDF and DOCX resumes and generating useful job-application insights.
 
-## 👁️ Eye Disease Detection
+**Tech:** Python · Django · AI/ML · PyPDF2 · python-docx
 
-**Deep Learning + Medical Image Classification**
+Repository: https://github.com/abhinavmehra031-source/Ai-Resume-Analyzer
 
-AI-powered application designed to classify retinal images into multiple eye disease categories using a deep learning model.
+### 🤟 Sign Language Converter
 
-### Detects
+Computer-vision application that uses hand tracking and gesture recognition to convert sign-language gestures into English text.
 
-* 👁️ Cataract
-* 👁️ Glaucoma
-* 👁️ Diabetic Retinopathy
+**Tech:** Python · OpenCV · MediaPipe · Tkinter
 
-### Features
+### 🌫️ Air Quality Prediction
 
-* Retinal image upload
-* Deep learning inference
-* Prediction interface
-* Django web application
-* OpenCV image processing
+Machine-learning project for data analysis and air-quality prediction using Python, Pandas, NumPy, and Scikit-learn.
 
-**Tech:** `PyTorch` `EfficientNet-B0` `Django` `OpenCV` `Bootstrap`
+### 🌦️ Weather Forecasting App
 
-🔗 **Repository:**
-https://github.com/abhin031/eye-disease-detection
+React-based weather application using JavaScript and weather APIs.
 
----
+## 📊 GitHub
 
-## 📄 AI Resume Analyzer
+All projects and source code are available on my GitHub profile:
 
-**AI-powered Resume Analysis Platform**
+https://github.com/abhinavmehra031-source
 
-A Python-based application designed to analyze resumes and extract useful information for improving job applications.
+## 🎯 Current Focus
 
-### Features
+- Advanced Python backend development
+- REST API architecture
+- FastAPI and Django
+- Computer Vision and YOLO
+- AI/ML application development
+- Docker and Linux deployment
+- Building portfolio-quality production projects
 
-* 📄 PDF resume parsing
-* 📝 DOCX resume parsing
-* 🔍 Resume analysis
-* 🤖 AI-powered processing
-* 📊 Resume insights
+## 📫 Contact
 
-**Tech:** `Python` `AI/ML` `PyPDF2` `python-docx`
+**Abhinav Mehra**  
+B.Tech Computer Science & Engineering
 
-🔗 **Repository:**
-https://github.com/abhin031/AI_RESUME
+- GitHub: https://github.com/abhinavmehra031-source
+- LinkedIn: https://www.linkedin.com/in/abhinav-mehra-203046362/
 
 ---
 
-## 🤟 Sign Language Converter
-
-**Computer Vision + Hand Tracking**
-
-A computer vision application that recognizes sign language gestures and converts them into English text.
-
-### Technologies
-
-`Python` `OpenCV` `MediaPipe` `Tkinter`
-
-* ✋ Hand landmark detection
-* 🧠 Gesture recognition
-* 🔤 Sign-to-text conversion
-* 📷 Real-time camera processing
-
----
-
-# 📚 Other Projects
-
-| Project                     | Technologies                        |
-| --------------------------- | ----------------------------------- |
-| 🌫️ Air Quality Prediction  | Python · ML · Pandas · Scikit-Learn |
-| 👁️ Eye Disease Detection   | PyTorch · CNN · Django · OpenCV     |
-| 🌦️ Weather Forecasting App | React · API · JavaScript            |
-| 📄 Resume Analyzer          | Python · AI/ML · Django             |
-| 🎯 YOLO Object Detection    | YOLOv8 · Django · OpenCV            |
-| 🤟 Sign Language Converter  | Python · MediaPipe · OpenCV         |
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhin031&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhin031&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhin031&theme=tokyonight&hide_border=true" width="65%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhin031&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="90%"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhin031&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/abhin031">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<br/><br/>
-
-💼 **Open to AI/ML, Python, Computer Vision & Backend Development opportunities**
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you find my projects useful, consider giving them a star!
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6e40c9&height=120&section=footer" width="100%"/>
-
-</div>
+⭐ Feel free to explore the repositories and projects.
